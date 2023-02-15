@@ -1,5 +1,10 @@
-#automatic
-Requirements 
-Python Version 3  
+AutomaticClearFolder 
+=========================
+This program automatically cleans up the download directory on the system.
 
-How this explain this Programm is running 
+Requirements
+Python 3.11.1 
+ 
+ 
+ Under Windows 
+ ===============
